@@ -7,4 +7,3 @@
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about UI/UX, Video Editing, Motion Graphics
 - 📫 How to reach me: Google Search - robinrajsb
-- ⚡ Fun fact: Im realy lazy
